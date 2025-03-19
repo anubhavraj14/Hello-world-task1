@@ -1,0 +1,6 @@
+.syndicate
+logs/
+.syndicate-config-*/
+
+node_modules
+
